@@ -1,7 +1,7 @@
 # Battery-Manager
 🔋 In this project, I Implement a Battery Management Application using Kotlin Language
 
-<img src="https://github.com/MJARAB/Battery-Manager/blob/main/BatteryManager.png">
+<img src="https://github.com/MJARAB/Battery-Manager/blob/main/BatteryManager.jpg">
 
 ## Capabilities:
 * Manage Your Phone Battery
